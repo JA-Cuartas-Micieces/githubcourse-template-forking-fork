@@ -2,3 +2,4 @@ Ingredients
 
 - Lettuce
 - Beans
+- Olives
