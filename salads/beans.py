@@ -4,3 +4,4 @@ Ingredients
 - Beans
 - Olives
 - Vinegar
+- Olive Oil
